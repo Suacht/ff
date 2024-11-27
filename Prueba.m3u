@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrjnCgR/mexico.png",Latino 1
-PlayStream.php?seccion=ServidorF&genero=Peliculas&online=Latino.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrjnCgR/mexico.png",Latino 2 (NUM - L)
-PlayStream.php?seccion=ServidorF&genero=Peliculas&online=NUML.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrjnCgR/mexico.png",Latino 3 (M - Z)
-PlayStream.php?seccion=ServidorF&genero=Peliculas&online=MZ.m3u
